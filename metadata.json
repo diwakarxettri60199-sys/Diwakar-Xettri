@@ -1,0 +1,7 @@
+{
+  "name": "BBA Academic Hub",
+  "description": "A comprehensive academic support platform for BBA students featuring organized notes, interactive MCQs, and AI-powered study assistance.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
